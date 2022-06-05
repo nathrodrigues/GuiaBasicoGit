@@ -12,7 +12,7 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 - Clique em <b>New</b> para criar um novo repositório; <br />
     Aqui você poderá dar um nome, adicionar uma descrição e indicar se o repositório será público ou privado:
 
-    <img src="/img/create-new-repository.png>
+    <img src="/img/create-new-repository.png">
     
 - Na seção <b>"Initialize this repository with",</b> você poderá adicionar um arquivo README na criação do seu repositório e dentro desse arquivo detalhar o que foi feito no projeto, falar sobre sua utilidade e informar como ele pode ser usado. 
 - Também tem a opção para adicionar o arquivo <b>.gitignore</b> que diz ao Git quais arquivos ou pastas ele deve ignorar em um projeto. 
