@@ -50,11 +50,11 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 
 ## Fazendo Fork de um repositório
 
-- Se você quiser trazer o repositório de alguém para o seu, entre no repositório que você quer puxar e clique no botão que está escrito <b>Fork</b>.
+- Se você quiser trazer o repositório de alguém para o seu no GitHub, entre no repositório que você quer puxar e clique no botão que está escrito <b>Fork</b>.
 
 ## Branch 
 
-- Branches são ramificações dentro do projeto, se você está fazendo um projeto em grupo, você pode criar uma branch para adicionar seu código ou fazer alterações na `main` e depois que seu código for revisado, fazer `merge` com essa branch principal. <br />
+- Branches são ramificações dentro do projeto, se você está fazendo um projeto em grupo, poderá criar uma branch para adicionar seu código ou fazer alterações no código principal e depois que ele for revisado, é possível fazer um `merge` da sua branch com a main. <br />
 
     <img src="/img/git-branches-merge.png"> <br />
 
