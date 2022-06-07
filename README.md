@@ -8,8 +8,8 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 
 ## Criando um repositório no GitHub
 
-- Dentro da sua conta no GitHub, acesse seus repositórios;
-- Clique em <b>New</b> para criar um novo repositório; <br />
+- Dentro da sua conta no GitHub, acesse seus repositórios
+- Clique em <b>New</b> para criar um novo repositório <br />
     Aqui você poderá dar um nome, adicionar uma descrição e indicar se o repositório será público ou privado: <br>
 
     <img src="/img/create-new-repository.png"> <br>
@@ -41,9 +41,15 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 
 ## Clonando um repositório
 
-- Se você quiser baixar o código do repositório de alguém o do seu próprio, basta entrar no repositório que você quer baixar, clicar em <b>Code</b> 
-- Vai aparecer um link que você pode copiar <br>
+- Se você quiser baixar algum repositório, basta entrar no repositório que você quer baixar, clicar em <b>Code</b> 
+- Vai aparecer um link que você pode copiar <br>    
   
     <img src="/img/clone.png"> <br>
-    
-- No terminal do git (ou no terminal no VSCode), você usa o comando `git clone <link copiado do repositório>`
+
+- No terminal do git (ou no terminal no VSCode), você usa o comando `git clone <link copiado do repositório>` e o repositório será baixado no seu computador
+
+## Fazendo Fork de um repositório
+
+- Se você quiser trazer o repositório de alguém para o seu, entre no repositório que você quer puxar e clique no botão que está escrito <b>Fork</b>.
+
+## Branch 
