@@ -63,7 +63,7 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 
 ## Merge 
 
-- Para juntar a sua branch com a branch principal (nesse caso a main), entre na main e digite o código `git merge nome-da-sua-branch` e agora as alterações da sua branch estão na main
+- Para juntar a sua branch com a branch principal (nesse caso a main), entre na main e digite o comando `git merge nome-da-sua-branch` e agora as alterações da sua branch estão na main
 
 ## Pull 
 
