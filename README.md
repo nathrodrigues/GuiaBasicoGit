@@ -38,3 +38,9 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 - Agora para empurrar o repositório local para o GitHub, utilize o comando `git push -u origin main`
   
   :tada: Seu reporitório local e o remoto estão conectados :tada: 
+
+## Clonando um repositório
+- Se você quiser baixar o código do repositório de alguém o do seu próprio, basta entrar no repositório que você quer baixar, clicar em <b>Code</b> 
+- Vai aparecer um link que você pode copiar 
+    <img src="/img/clone.png"> 
+- No terminal do git (ou no terminal no VSCode), você usa o comando `git clone <link copiado do repositório>`
