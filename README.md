@@ -71,10 +71,10 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 
 ## Pull request 
 
-- Pull requests permite que você informe a outras pessoas sobre as alteraçõesque você fez push para uma branch em um repositório no GitHub. Depois que uma pull request é aberta, você pode discutir e revisar as possíveis alterações com colaboradores e adicionar commits de acompanhamento antes que as alterações sofram merge no branch base.
+- Pull requests permitem que você informe a outras pessoas sobre as alteraçõesque você fez push para uma branch em um repositório no GitHub. Depois que uma pull request é aberta, você pode discutir e revisar as possíveis alterações com colaboradores e adicionar commits de acompanhamento antes que as alterações sofram merge no branch base.
 - Você pode ir em `Pull requests` e para adicionar clique em `New pull request`
 
 ## Links úteis 
 
-[Documentação Git](https://git-scm.com/doc)
-[Documentação GitHub](https://docs.github.com/pt)
+- [Documentação Git](https://git-scm.com/doc)
+- [Documentação GitHub](https://docs.github.com/pt)
