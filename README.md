@@ -14,14 +14,14 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 
     <img src="/img/create-new-repository.png"> <br />
     
-- Na seção <b>"Initialize this repository with",</b> você poderá adicionar um arquivo README na criação do seu repositório e dentro desse arquivo detalhar o que foi feito no projeto, falar sobre sua utilidade e informar como ele pode ser usado. 
-- Também tem a opção para adicionar o arquivo <b>.gitignore</b> que diz ao Git quais arquivos ou pastas ele deve ignorar em um projeto. 
-- Para finalizar, tem a opção de <b>escolher uma licença</b> para que seu repositório seja considerado como código aberto e outros desenvolvedores tenham a liberdade de usar, alterar e distribuir. <br />
+- Na seção <b>"Initialize this repository with",</b> você poderá adicionar um arquivo README na criação do seu repositório e dentro desse arquivo detalhar o que foi feito no projeto, falar sobre sua utilidade e informar como ele pode ser usado
+- Também tem a opção para adicionar o arquivo <b>.gitignore</b> que diz ao Git quais arquivos ou pastas ele deve ignorar em um projeto
+- Para finalizar, tem a opção de <b>escolher uma licença</b> para que seu repositório seja considerado como código aberto e outros desenvolvedores tenham a liberdade de usar, alterar e distribuir <br />
     Após isso, você clica em <b>Create repository</b> e pronto, seu repositório remoto estará criado :tada: <br>
     
     <img src="/img/repository-settings.png"><br />
 
-- Após criado o repositório no GitHub, vai aparecer alguns comandos que você utilizará para configurar seu repositório local e fazer a conexão entre o repositório local e o remoto. <br />
+- Após criado o repositório no GitHub, vai aparecer alguns comandos que você utilizará para configurar seu repositório local e fazer a conexão entre o repositório local e o remoto <br />
 
     <img src="/img/command-line-git.png">
 
@@ -41,7 +41,7 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 
 ## Clonando um repositório
 
-- Se você quiser baixar algum repositório, basta entrar no repositório que você quer baixar, clicar em <b>Code</b> 
+- Se você quiser baixar algum repositório basta entrar nele, clicar em <b>Code</b> 
 - Vai aparecer um link que você pode copiar <br />    
   
     <img src="/img/clone.png"> <br />
