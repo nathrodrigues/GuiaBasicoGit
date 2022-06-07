@@ -12,16 +12,16 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 - Clique em <b>New</b> para criar um novo repositório <br />
     Aqui você poderá dar um nome, adicionar uma descrição e indicar se o repositório será público ou privado: <br>
 
-    <img src="/img/create-new-repository.png"> <br>
+    <img src="/img/create-new-repository.png"> <br />
     
 - Na seção <b>"Initialize this repository with",</b> você poderá adicionar um arquivo README na criação do seu repositório e dentro desse arquivo detalhar o que foi feito no projeto, falar sobre sua utilidade e informar como ele pode ser usado. 
 - Também tem a opção para adicionar o arquivo <b>.gitignore</b> que diz ao Git quais arquivos ou pastas ele deve ignorar em um projeto. 
 - Para finalizar, tem a opção de <b>escolher uma licença</b> para que seu repositório seja considerado como código aberto e outros desenvolvedores tenham a liberdade de usar, alterar e distribuir. <br />
     Após isso, você clica em <b>Create repository</b> e pronto, seu repositório remoto estará criado :tada: <br>
     
-    <img src="/img/repository-settings.png"><br>
+    <img src="/img/repository-settings.png"><br />
 
-- Após criado o repositório no GitHub, vai aparecer alguns comandos que você utilizará para configurar seu repositório local e fazer a conexão entre o repositório local e o remoto. <br>
+- Após criado o repositório no GitHub, vai aparecer alguns comandos que você utilizará para configurar seu repositório local e fazer a conexão entre o repositório local e o remoto. <br />
 
     <img src="/img/command-line-git.png">
 
@@ -42,9 +42,9 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 ## Clonando um repositório
 
 - Se você quiser baixar algum repositório, basta entrar no repositório que você quer baixar, clicar em <b>Code</b> 
-- Vai aparecer um link que você pode copiar <br>    
+- Vai aparecer um link que você pode copiar <br />    
   
-    <img src="/img/clone.png"> <br>
+    <img src="/img/clone.png"> <br />
 
 - No terminal do git (ou no terminal no VSCode), você usa o comando `git clone <link copiado do repositório>` e o repositório será baixado no seu computador
 
@@ -53,3 +53,28 @@ Esse é um desafio do bootcamp da Digital Innovation One.
 - Se você quiser trazer o repositório de alguém para o seu, entre no repositório que você quer puxar e clique no botão que está escrito <b>Fork</b>.
 
 ## Branch 
+
+- Branches são ramificações dentro do projeto, se você está fazendo um projeto em grupo, você pode criar uma branch para adicionar seu código ou fazer alterações na `main` e depois que seu código for revisado, fazer `merge` com essa branch principal. <br />
+
+    <img src="/img/git-branches-merge.png"> <br />
+
+- Para criar uma nova branch, use o comando `git checkout -b "nome da branch"`, agora você vai estar dentro da sua nova branch e pode escrever seu código ou fazer alterações no código principal
+- Se você quiser trocar de branch use o comando `git checkout nome-da-branch`, por exemplo, voltando para a main `git checkout main`
+
+## Merge 
+
+- Para juntar a sua branch com a branch principal (nesse caso a main), entre na main e digite o código `git merge nome-da-sua-branch` e agora as alterações da sua branch estão na main
+
+## Pull 
+
+- Quando você fizer alterações no seu repositório do GitHub ou fizer <b>clone</b> de algum repositório e depois o autor fizer alterações, basta usar o comando `git pull` para puxar as alterações realizadas no GitHub para sua máquina  
+
+## Pull request 
+
+- Pull requests permite que você informe a outras pessoas sobre as alteraçõesque você fez push para uma branch em um repositório no GitHub. Depois que uma pull request é aberta, você pode discutir e revisar as possíveis alterações com colaboradores e adicionar commits de acompanhamento antes que as alterações sofram merge no branch base.
+- Você pode ir em `Pull requests` e para adicionar clique em `New pull request`
+
+## Links úteis 
+
+[Documentação Git](https://git-scm.com/doc)
+[Documentação GitHub](https://docs.github.com/pt)
